@@ -17,7 +17,7 @@ My work usually starts with a real problem — then moves through UX, architectu
 ## GitHub signal
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/jemitoburt/jemitoburt/f6afa3afff2d412b9fa2d4eef31fa5b0c1840e75/profile/stats.svg" alt="GitHub statistics" />
 </p>
 
 ## What I work with

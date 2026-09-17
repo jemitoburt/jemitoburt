@@ -86,5 +86,28 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/stats.svg
-          git commit -m "chore: update profile stats" || exit 0
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update profile stats"
+          fi
+          card_commit=$(git rev-parse HEAD)
+          python3 - <<PY
+          import re
+          from pathlib import Path
+
+          path = Path("README.md")
+          text = path.read_text(encoding="utf-8")
+          replacement = "https://raw.githubusercontent.com/jemitoburt/jemitoburt/" + "${card_commit}" + "/profile/stats.svg"
+          text, count = re.subn(
+              r"https://raw\.githubusercontent\.com/jemitoburt/jemitoburt/[^\" ]+/profile/stats\.svg",
+              replacement,
+              text,
+          )
+          if count != 1:
+              raise SystemExit(f"expected one stats image URL, found {count}")
+          path.write_text(text, encoding="utf-8")
+          PY
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: pin profile stats image"
+          fi
           git push
