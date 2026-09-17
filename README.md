@@ -18,8 +18,8 @@ My work usually starts with a real problem — then moves through UX, architectu
 
 These older public repositories are kept for reference only. They have not been functional for a long time and are no longer maintained.
 
-- [Vis-IO](https://github.com/jemitoburt/Vis-IO) — archived project; no longer functional
-- [Sneaker-helper](https://github.com/jemitoburt/Sneaker-helper) — archived project; no longer functional
+- [Vis-IO](https://github.com/jemitoburt/Vis-IO) — older project; no longer functional
+- [Sneaker-helper](https://github.com/jemitoburt/Sneaker-helper) — older project; no longer functional
 
 ## GitHub signal
 
