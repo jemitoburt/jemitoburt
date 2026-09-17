@@ -34,6 +34,7 @@ These older public repositories are kept for reference only. They have not been 
 ## Background
 
 - **AI & IT Explorer**, [Spilberk](https://www.spilberk.com/) — 03/2026–present
+- **Scrapers, monitors and automation tools**, sneaker/e-commerce platforms — 2022–2026
 - **Business Economics and Management**, Masaryk University — 09/2025–present
 - **Business Management**, University of Economics and Management — 2021–2024
 - **Content and web catalogue**, SimpleLift — 12/2024–04/2025
