@@ -1,7 +1,32 @@
-<h1 align="center">Hi 👋, I'm Marek</h1>
-<h3 align="center">I'm developer working mainly on sneaker projects. Mainly working with Python. Also have skills with HTML, CSS & JS</h3>
+# Marek Syvala
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[Discord](https://discordapp.com/users/781597930196303964)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="je_mi_to_burt#2604" height="30" width="40" /></a>
-</p>
+### AI & IT Explorer @ Spilberk
+
+I build practical web applications, AI automations and internal tools that connect business, data and everyday workflows.
+
+My work usually starts with a real problem — then moves through UX, architecture, integrations and deployment until the result is useful in production.
+
+## Selected work
+
+- [Spilberk](https://www.spilberk.com/) — web projects, AI automation and internal tools
+- [Chytrý investor](https://investujchytre.eu/) — gamified financial education product
+  - [Portfolio](https://portfolio.investujchytre.eu/)
+  - [Investor](https://investor.investujchytre.eu/)
+- [UNIRAVE](https://unirave.cz/) — live event website with automated deployment
+
+## What I work with
+
+`Next.js` · `React` · `Python` · `PostgreSQL` · `Docker` · `AI agents` · `APIs` · `workflow automation`
+
+## Background
+
+- **AI & IT Explorer**, [Spilberk](https://www.spilberk.com/) — 03/2026–present
+- **Business Economics and Management**, Masaryk University — 09/2025–present
+- **Business Management**, University of Economics and Management — 2021–2024
+- **Content and web catalogue**, SimpleLift — 12/2024–04/2025
+
+## Find me
+
+- [Personal portfolio](https://jemitoburt.tech/)
+- [LinkedIn](https://www.linkedin.com/in/marek-syvala-8a05a71b3/)
+- [GitHub](https://github.com/jemitoburt)
