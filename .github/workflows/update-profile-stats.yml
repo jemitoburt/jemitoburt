@@ -78,7 +78,7 @@ jobs:
           <line x1="24" y1="34" x2="552" y2="34" class="line"/>
           {''.join(cards)}
           </svg>'''
-          Path("profile/stats.svg").write_text(svg.strip() + "\\n", encoding="utf-8")
+          Path("profile/stats.svg").write_text(svg.strip() + "\n", encoding="utf-8")
           PY
 
       - name: Commit updated card
