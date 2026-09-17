@@ -14,6 +14,12 @@ My work usually starts with a real problem — then moves through UX, architectu
   - [Investor](https://investor.investujchytre.eu/)
 - [UNIRAVE](https://unirave.cz/) — live event website with automated deployment
 
+## GitHub signal
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub statistics" />
+</p>
+
 ## What I work with
 
 `Next.js` · `React` · `Python` · `PostgreSQL` · `Docker` · `AI agents` · `APIs` · `workflow automation`
