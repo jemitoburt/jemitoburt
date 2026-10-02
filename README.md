@@ -24,7 +24,7 @@ These older public repositories are kept for reference only. They have not been 
 ## GitHub signal
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jemitoburt/jemitoburt/c8e80a41a9594b0f547325acb3453f121f6630f2/profile/stats.svg" alt="GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/jemitoburt/jemitoburt/ac8731fd9b92d12b36b2526c87dc70d0aae90229/profile/stats.svg" alt="GitHub statistics" />
 </p>
 
 ## What I work with
